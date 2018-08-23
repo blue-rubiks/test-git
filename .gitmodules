@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = git@github.com:blue-rubiks/submodule.git
+[submodule "a1"]
+	path = a1
+	url = git@github.com:blue-rubiks/a1.git
